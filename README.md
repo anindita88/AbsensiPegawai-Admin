@@ -1,5 +1,5 @@
 # AbsensiPegawai-Admin
 
-Nama  :   Anindita Eka Suci
-No    :   05
-Kelas :   XI RPL 4
+Nama  :   Anindita Eka Suci<br>
+No    :   05<br>
+Kelas :   XI RPL 4<br>
